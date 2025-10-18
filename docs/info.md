@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works 
 
-It's a couple logic gates, an xor, a not and an xnor
+It's a couple logic gates, an xor, a not and an xnor to make a letter U.
 
 ## How to test
 
