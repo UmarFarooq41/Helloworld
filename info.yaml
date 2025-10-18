@@ -27,9 +27,9 @@ pinout:
 
   # Outputs
   uo[0]: ""
-  uo[1]: "output a"
-  uo[2]: "output b"
-  uo[3]: "output c"
+  uo[1]: "output not"
+  uo[2]: "output not"
+  uo[3]: "output not"
   uo[4]: "output d"
   uo[5]: "output e"
   uo[6]: ""
